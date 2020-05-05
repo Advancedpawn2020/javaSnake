@@ -1,2 +1,2 @@
-# MyProject
-It has the code I  typed myself.
+# JavaSnake
+java版贪吃蛇
